@@ -1,0 +1,1 @@
+fprintf(SignalGeneratorObject,':OUTPut:STATe OFF');

@@ -1,0 +1,1 @@
+fprintf(DCPowerSupplyObject,'OUTP ON');
